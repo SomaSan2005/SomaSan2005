@@ -5,14 +5,10 @@
   <div> I love programming i am studying (c / c ++, java, javascript, html, css, python)<div>
 
 </div>
-<a <a href="mailto:ruslanm0502@gmail.com/"><img src="https://img.shields.io/badge/Gmail-contact me-e06c75?style=flat&logo=gmail" /></a>
+<img src="https://github-readme-stats.vercel.app/api?username=SomaSan2005&theme=radical&hide_title=true&hide_rank=true&show_icons=true&include_all_commits=true&line_height=24&hide_border=true" />
+
+<a href="mailto:ruslanm0502@gmail.com/"><img src="https://img.shields.io/badge/Gmail-contact me-e06c75?style=flat&logo=gmail" /></a>
 <a href="https://youtube.com/channel/UC5z2H6fsaYyjvPjRuqsfnKA"><img src="https://img.shields.io/badge/YouTube-SomaSan-dcdfe4?style=flat&logo=youtube"/></a>
-
-
-	
-
-
-
 
 	
 
