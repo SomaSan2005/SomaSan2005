@@ -5,7 +5,7 @@
   <div> I love programming i am studying (c / c ++, java, javascript, html, css, python)<div>
 
 </div>
-<img src="https://github-readme-stats.vercel.app/api?username=SomaSan2005&theme=radical&hide_title=true&hide_rank=true&show_icons=true&include_all_commits=true&line_height=24&hide_border=true" />
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=SomaSan2005&show_icons=true&include_all_commits=true&theme=dracula" alt="SomaSan2005's github stats" />
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SomaSan2005&theme=radical&hide_title=true&langs_count=8&layout=compact&hide_border=true" />
 
 
