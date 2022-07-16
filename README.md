@@ -15,4 +15,6 @@
 
 
 
+<a href="https://discord.com/channels/@me"><img src="https://img.shields.io/badge/Discord-SomaSan-3449eb?style=flat&logo=discord" /></a>
+
 
