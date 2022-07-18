@@ -13,16 +13,15 @@
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SomaSan2005&theme=radical&hide_title=true&langs_count=8&layout=compact&hide_border=true" />
 
 
-<h3 align="center"> my discord profile </h3>
-
-[![Discord Presence](https://lanyard.cnrad.dev/api/711880426666590261)](https://discord.com/users/711880426666590261)
-
-
 
 <h3 align="center"> Recent GitHub Activity </h3>
 <br />
 <a href="https://github.com/SomaSan2005"><img src="https://activity-graph.herokuapp.com/graph?username=SomaSan2005&custom_title=SomaSan2005's%20Contribution%20Graph&theme=react-dark" /></a>
 <br />
+
+<h3 align="center"> My Discord Profile </h3>
+
+[![Discord Presence](https://lanyard.cnrad.dev/api/711880426666590261)](https://discord.com/users/711880426666590261)
 
 <h3 align="center"> links </h3>
 <a href="mailto:ruslanm0502@gmail.com/"><img src="https://img.shields.io/badge/Gmail-contact me-e06c75?style=flat&logo=gmail" /></a>
