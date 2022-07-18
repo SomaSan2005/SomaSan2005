@@ -13,10 +13,7 @@
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SomaSan2005&theme=radical&hide_title=true&langs_count=8&layout=compact&hide_border=true" />
 
 
-<h3 align="center"> Github Stats </h3>
-<p align="center">
-<img height:"10%" src="https://github-readme-streak-stats.herokuapp.com/?user=SomaSan2005&theme=algolia&background=FFFFFF00&hide_border=true" />
-</p>
+
 
 <h3 align="center"> Recent GitHub Activity </h3>
 <br />
