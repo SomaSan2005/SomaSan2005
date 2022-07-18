@@ -13,6 +13,10 @@
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SomaSan2005&theme=radical&hide_title=true&langs_count=8&layout=compact&hide_border=true" />
 
 
+<h3 align="center"> my discord profile </h3>
+
+[![Discord Presence](https://lanyard.cnrad.dev/api/711880426666590261)](https://discord.com/users/711880426666590261)
+
 
 
 <h3 align="center"> Recent GitHub Activity </h3>
@@ -24,6 +28,7 @@
 <a href="mailto:ruslanm0502@gmail.com/"><img src="https://img.shields.io/badge/Gmail-contact me-e06c75?style=flat&logo=gmail" /></a>
 <a href="https://youtube.com/channel/UC5z2H6fsaYyjvPjRuqsfnKA"><img src="https://img.shields.io/badge/YouTube-SomaSan-dcdfe4?style=flat&logo=youtube"/></a>
 <a href="https://t.me/Ruslancikkk"><img src="https://img.shields.io/badge/Telegram-contact%20me-03a9fc?style=flat&logo=telegram" /></a>
-<a href="https://discord.com/channels/@me"><img src="https://img.shields.io/badge/Discord-SomaSan-3449eb?style=flat&logo=discord" /></a>
+
+
 
 
