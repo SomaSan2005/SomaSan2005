@@ -21,7 +21,9 @@
 
 <h3 align="center"> My Discord Profile </h3>
 
-[![Discord Presence](https://lanyard.cnrad.dev/api/711880426666590261)](https://discord.com/users/711880426666590261)
+<a href="https://discord.com/users/711880426666590261" target="_blank" >
+ <img align ="left" alt="SomaSan2005's Discord" width="275px" src ="https://discord.c99.nl/widget/theme-2/711880426666590261.png" />
+</a>
 
 <h3 align="center"> links </h3>
 <a href="mailto:ruslanm0502@gmail.com/"><img src="https://img.shields.io/badge/Gmail-contact me-e06c75?style=flat&logo=gmail" /></a>
