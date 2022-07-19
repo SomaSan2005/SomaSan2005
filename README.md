@@ -25,6 +25,4 @@
 
 
 <h3 align="center"> My Discord Profile </h3>
-<a href="https://discord.com/users/711880426666590261" target="_blank" >
-<img align ="left" alt="SomaSan2005's Discord" width="275px" src ="https://discord.c99.nl/widget/theme-2/711880426666590261.png"/>
-</a>
+<a href="https://discord.com/users/711880426666590261" target="_blank" ><img align ="left" alt="SomaSan2005's Discord" width="275px" src ="https://discord.c99.nl/widget/theme-2/711880426666590261.png"/></a>
