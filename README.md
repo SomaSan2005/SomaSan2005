@@ -25,6 +25,9 @@
  <img align ="left" alt="SomaSan2005's Discord" width="275px" src ="https://discord.c99.nl/widget/theme-2/711880426666590261.png" />
 </a>
 
+ 
+   
+   
 <h3 align="center"> links </h3>
 <a href="mailto:ruslanm0502@gmail.com/"><img src="https://img.shields.io/badge/Gmail-contact me-e06c75?style=flat&logo=gmail" /></a>
 <a href="https://youtube.com/channel/UC5z2H6fsaYyjvPjRuqsfnKA"><img src="https://img.shields.io/badge/YouTube-SomaSan-dcdfe4?style=flat&logo=youtube"/></a>
