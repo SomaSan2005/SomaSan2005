@@ -7,8 +7,12 @@
 
 <h3 align="center"> GitHub Activity </h3>
 <img src="https://github-readme-stats.vercel.app/api?username=SomaSan2005&theme=radical&hide_title=true&hide_rank=true&show_icons=true&include_all_commits=true&line_height=24&hide_border=true" />
+
 <h3 align="center"> Statistics Languages </h3>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SomaSan2005&theme=radical&hide_title=true&langs_count=8&layout=compact&hide_border=true" />
+<img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SomaSan2005&theme=tokyonight&hide=batchfile">
+
+
+
 
 
 <h3 align="center"> Recent GitHub Activity </h3>
@@ -30,7 +34,6 @@
 <h3 align="center"> My Discord Profile </h3>
 
 [![Discord Presence](https://lanyard.cnrad.dev/api/711880426666590261)](https://discord.com/users/711880426666590261)
-
 
 
 
