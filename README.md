@@ -9,7 +9,7 @@
 <img src="https://github-readme-stats.vercel.app/api?username=SomaSan2005&theme=radical&hide_title=true&hide_rank=true&show_icons=true&include_all_commits=true&line_height=24&hide_border=true" />
 
 <h3 align="center"> Statistics Languages </h3>
-<img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SomaSan2005&theme=tokyonight&hide=batchfile">
+<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SomaSan2005&theme=tokyonight&hide=batchfile">
 
 
 
