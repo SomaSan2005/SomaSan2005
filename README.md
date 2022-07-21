@@ -25,7 +25,8 @@
 <a href="mailto:ruslanm0502@gmail.com/"><img src="https://img.shields.io/badge/Gmail-contact me-e06c75?style=flat&logo=gmail" /></a>
 <a href="https://youtube.com/channel/UC5z2H6fsaYyjvPjRuqsfnKA"><img src="https://img.shields.io/badge/YouTube-SomaSan-dcdfe4?style=flat&logo=youtube"/></a>
 <a href="https://t.me/Ruslancikkk"><img src="https://img.shields.io/badge/Telegram-contact%20me-03a9fc?style=flat&logo=telegram" /></a>
-<a href="https://somasan2005.github.io/RuslanJunior2005.github.io"><img src="https://img.shields.io/badge/Website-visit%20my%20website-ffcc00?style=flat" /></a>
+<ahref="https://somasan2005.github.io/RuslanJunior2005.github.io"><img src="https://img.shields.io/badge/Mywebsite-visit%20my%20website-FFFFFF?style=flat" /></a>
+
 
 
 
