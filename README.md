@@ -12,8 +12,7 @@
 
 <h3 align="center"> Statistics Languages </h3>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SomaSan2005&layout=compact)](https://github.com/SomaSan2005/github-readme-stats)
-
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SomaSan2005&layout=compact&langs_count=7&theme=dracula"/>
 
 
 
