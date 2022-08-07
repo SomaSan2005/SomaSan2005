@@ -30,8 +30,9 @@
 
 
 
+<h3 align="center">  Discord  </h3>
 
-
+[![Discord Presence](https://lanyard.cnrad.dev/api/711880426666590261)](https://discord.com/users/711880426666590261)
 
 
 
