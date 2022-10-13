@@ -4,7 +4,6 @@
 </div>
 
 
-
 <h3 align="center"> GitHub Activity </h3>
 <img src="https://github-readme-stats.vercel.app/api?username=SomaSan2005&theme=radical&hide_title=true&hide_rank=true&show_icons=true&include_all_commits=true&line_height=24&hide_border=true" />
 
