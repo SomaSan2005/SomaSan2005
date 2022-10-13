@@ -3,18 +3,6 @@
   <div> I love programming i am studying (c / c ++, java, javascript, html, css, python)<div>
 </div>
 
-
-<h3 align="center"> GitHub Activity </h3>
-<img src="https://github-readme-stats.vercel.app/api?username=SomaSan2005&theme=radical&hide_title=true&hide_rank=true&show_icons=true&include_all_commits=true&line_height=24&hide_border=true" />
-
-
-
-<h3 align="center"> Statistics Languages </h3>
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SomaSan2005&layout=compact&langs_count=7&theme=dracula"/>
-
-
-
 <h3 align="center"> Recent GitHub Activity </h3>
 <br />
 <a href="https://github.com/SomaSan2005"><img src="https://activity-graph.herokuapp.com/graph?username=SomaSan2005&custom_title=SomaSan2005's%20Contribution%20Graph&theme=react-dark" /></a>
