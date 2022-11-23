@@ -1,48 +1,27 @@
-<div>
-<h1 >Hi! I'm Soma San 👋 </h1>
-</div>
-<details>
-<summary><b> About </b></summary>
+<h1 align="center">Hi 👋, I'm Ruslan</h1>
+<h3 align="center">I am a student who is studying to be a software developer</h3>
 
-I love programming i am studying (c / c ++, java, javascript, html, css, python)  
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=somasan2005&label=Profile%20views&color=0e75b6&style=flat" alt="somasan2005" /> </p>
 
-</details>
-<details>
-<summary>  Some stats of me </summary>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=somasan2005" alt="somasan2005" /></a> </p>
 
-![](https://github-readme-stats.vercel.app/api?username=SomaSan2005&show_icons=true&theme=highcontrast) 
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://dev.to/https://dev.to/somasan2005" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="https://dev.to/somasan2005" height="30" width="40" /></a>
+<a href="https://www.youtube.com/c/https://www.youtube.com/channel/uc5z2h6fsayyjvpjruqsfnka" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="https://www.youtube.com/channel/uc5z2h6fsayyjvpjruqsfnka" height="30" width="40" /></a>
+<a href="https://discord.gg/Ruslan#5224" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="Ruslan#5224" height="30" width="40" /></a>
+</p>
 
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=SomaSan2005&layout=compact&theme=highcontrast)
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
+
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=somasan2005&show_icons=true&locale=en&layout=compact" alt="somasan2005" /></p>
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=somasan2005&show_icons=true&locale=en" alt="somasan2005" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=somasan2005&" alt="somasan2005" /></p>
 
 
-</details>
-<details>
-
-<summary>  My Discord </summary>
-
-[![Discord Presence](https://lanyard.cnrad.dev/api/711880426666590261)](https://discord.com/users/711880426666590261)
-
-</details>
-
-<details>
-<summary> Recent GitHub Activity  </summary>
-
-<br>
-<a href="https://github.com/SomaSan2005"><img src="https://activity-graph.herokuapp.com/graph?username=SomaSan2005&custom_title=SomaSan2005's%20Contribution%20Graph&theme=react-dark" /></a>
-<br />
-
-</details>
-
-<details>
-
-<summary> My Links  </summary>
-
-<a href="mailto:ruslanm0502@gmail.com/"><img src="https://img.shields.io/badge/Gmail-contact me-e06c75?style=flat&logo=gmail" /></a>
-<a href="https://youtube.com/channel/UC5z2H6fsaYyjvPjRuqsfnKA"><img src="https://img.shields.io/badge/YouTube-SomaSan-dcdfe4?style=flat&logo=youtube"/></a>
-<a href="https://t.me/Ruslancikkk"><img src="https://img.shields.io/badge/Telegram-contact%20me-03a9fc?style=flat&logo=telegram" /></a>
-<a href="https://somasan2005.github.io/RuslanJunior2005.github.io"><img src="https://img.shields.io/badge/Mywebsite-Visit%20My%20Website-FFFFFF?style=flat" />
-
-</details>
 
 
 
