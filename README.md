@@ -10,7 +10,9 @@ I love programming i am studying (c / c ++, java, javascript, html, css, python)
 <details>
 <summary>  Some stats of me </summary>
 
+![](https://github-readme-stats.vercel.app/api?username=SomaSan2005&show_icons=true&theme=highcontrast) 
 
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=SomaSan2005&layout=compact&theme=highcontrast)
 
 
 </details>
